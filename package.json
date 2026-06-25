@@ -1,0 +1,10 @@
+{
+  "name": "whatsapp-ai-bot",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
